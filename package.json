@@ -1,0 +1,22 @@
+{
+  "name": "chinesegenshincharacters",
+  "version": "1.0.0",
+  "description": "My API that lists the Chinese names for Genshin Impact Characters",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunset/ChineseGenshinCharacters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunset/ChineseGenshinCharacters/issues"
+  },
+  "homepage": "https://github.com/Sunset/ChineseGenshinCharacters#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
