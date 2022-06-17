@@ -8,5 +8,17 @@
             "engName" : "Amber",
             "chiName" : "安柏"
         }
-    ]
+    ],
+    "Albedo":
+        {
+            "chineseTraditional" : "阿貝多",
+            "chineseSimplified" : "阿贝多",
+            "pingying" : "Ā bèi duō"
+        },
+    "Arataki Itto":
+        {
+            "chineseTraditional" : "荒瀧一斗",
+            "chineseSimplified" : "荒泷一斗",
+            "pingying" : "Huāng lóng Yī dǒu"
+        }
 }
