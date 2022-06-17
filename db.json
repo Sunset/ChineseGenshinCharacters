@@ -15,6 +15,71 @@
                 "chineseSimplified" : "荒泷一斗",
                 "pingying" : "Huāng lóng Yī dǒu"
             }
+        },
+        {
+            "Gorou":
+            {
+                "chineseTraditional" : "五郎",
+                "chineseSimplified" : "五郎",
+                "pingying" : "Wǔ láng"
+            }
+        },
+        {
+            "Ningguang":
+            {
+                "chineseTraditional" : "凝光",
+                "chineseSimplified" : "凝光",
+                "pingying" : "Níng guāng"
+            }
+        },
+        {
+            "Noelle":
+            {
+                "chineseTraditional" : "諾艾爾",
+                "chineseSimplified" : "诺艾尔",
+                "pingying" : "Nuò ài ěr"
+            }
+        },
+        {
+            "YunJin":
+            {
+                "chineseTraditional" : "雲堇",
+                "chineseSimplified" : "云堇",
+                "pingying" : "Yún Jǐn"
+            }
+        },
+        {
+            "Zhongli":
+            {
+                "chineseTraditional" : "鍾離",
+                "chineseSimplified" : "钟离",
+                "pingying" : "Zhōng lí"
+            }
+        },
+        {
+            "Aloy":
+            {
+                "chineseTraditional" : "亞蘿伊",
+                "chineseSimplified" : "埃洛伊",
+                "pingyingTraditional" : "Yà luó yī",
+                "pingyingSimplified" : "Āi luò yī"
+            }
+        },
+        {
+            "Chongyun":
+            {
+                "chineseTraditional" : "重雲",
+                "chineseSimplified" : "重云",
+                "pingying" : "Chóng yún"
+            }
+        },
+        {
+            "Diona":
+            {
+                "chineseTraditional" : "迪奧娜",
+                "chineseSimplified" : "迪奥娜",
+                "pingying" : "Dí ào nà"
+            }
         }
     ]
 }
