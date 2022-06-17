@@ -3,6 +3,7 @@
         {
             "Albedo":
             {
+                "id" : 1,
                 "chineseTraditional" : "阿貝多",
                 "chineseSimplified" : "阿贝多",
                 "pingying" : "Ā bèi duō"
@@ -11,6 +12,7 @@
         {
             "AratakiItto":
             {
+                "id" : 2,
                 "chineseTraditional" : "荒瀧一斗",
                 "chineseSimplified" : "荒泷一斗",
                 "pingying" : "Huāng lóng Yī dǒu"
@@ -19,6 +21,7 @@
         {
             "Gorou":
             {
+                "id" : 3,
                 "chineseTraditional" : "五郎",
                 "chineseSimplified" : "五郎",
                 "pingying" : "Wǔ láng"
@@ -27,6 +30,7 @@
         {
             "Ningguang":
             {
+                "id" : 4,
                 "chineseTraditional" : "凝光",
                 "chineseSimplified" : "凝光",
                 "pingying" : "Níng guāng"
@@ -35,6 +39,7 @@
         {
             "Noelle":
             {
+                "id" : 5,
                 "chineseTraditional" : "諾艾爾",
                 "chineseSimplified" : "诺艾尔",
                 "pingying" : "Nuò ài ěr"
@@ -43,6 +48,7 @@
         {
             "YunJin":
             {
+                "id" : 6,
                 "chineseTraditional" : "雲堇",
                 "chineseSimplified" : "云堇",
                 "pingying" : "Yún Jǐn"
@@ -51,6 +57,7 @@
         {
             "Zhongli":
             {
+                "id" : 7,
                 "chineseTraditional" : "鍾離",
                 "chineseSimplified" : "钟离",
                 "pingying" : "Zhōng lí"
@@ -59,6 +66,7 @@
         {
             "Aloy":
             {
+                "id" : 8,
                 "chineseTraditional" : "亞蘿伊",
                 "chineseSimplified" : "埃洛伊",
                 "pingyingTraditional" : "Yà luó yī",
@@ -68,6 +76,7 @@
         {
             "Chongyun":
             {
+                "id" : 9,
                 "chineseTraditional" : "重雲",
                 "chineseSimplified" : "重云",
                 "pingying" : "Chóng yún"
@@ -76,6 +85,7 @@
         {
             "Diona":
             {
+                "id" : 10,
                 "chineseTraditional" : "迪奧娜",
                 "chineseSimplified" : "迪奥娜",
                 "pingying" : "Dí ào nà"
