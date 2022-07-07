@@ -1,72 +1,72 @@
 {
     "characters" : [
         {
+            "id" : 1,
             "Albedo":
             {
-                "id" : 1,
                 "chineseTraditional" : "阿貝多",
                 "chineseSimplified" : "阿贝多",
                 "pingying" : "Ā bèi duō"
             }
         },
         {
+            "id" : 2,
             "AratakiItto":
             {
-                "id" : 2,
                 "chineseTraditional" : "荒瀧一斗",
                 "chineseSimplified" : "荒泷一斗",
                 "pingying" : "Huāng lóng Yī dǒu"
             }
         },
         {
+            "id" : 3,
             "Gorou":
             {
-                "id" : 3,
                 "chineseTraditional" : "五郎",
                 "chineseSimplified" : "五郎",
                 "pingying" : "Wǔ láng"
             }
         },
         {
+            "id" : 4,
             "Ningguang":
             {
-                "id" : 4,
                 "chineseTraditional" : "凝光",
                 "chineseSimplified" : "凝光",
                 "pingying" : "Níng guāng"
             }
         },
         {
+            "id" : 5,
             "Noelle":
             {
-                "id" : 5,
                 "chineseTraditional" : "諾艾爾",
                 "chineseSimplified" : "诺艾尔",
                 "pingying" : "Nuò ài ěr"
             }
         },
         {
+            "id" : 6,
             "YunJin":
             {
-                "id" : 6,
                 "chineseTraditional" : "雲堇",
                 "chineseSimplified" : "云堇",
                 "pingying" : "Yún Jǐn"
             }
         },
         {
+            "id" : 7,
             "Zhongli":
             {
-                "id" : 7,
                 "chineseTraditional" : "鍾離",
                 "chineseSimplified" : "钟离",
                 "pingying" : "Zhōng lí"
             }
         },
         {
+            "id" : 8,
             "Aloy":
             {
-                "id" : 8,
                 "chineseTraditional" : "亞蘿伊",
                 "chineseSimplified" : "埃洛伊",
                 "pingyingTraditional" : "Yà luó yī",
@@ -74,369 +74,369 @@
             }
         },
         {
+            "id" : 9,
             "Chongyun":
             {
-                "id" : 9,
                 "chineseTraditional" : "重雲",
                 "chineseSimplified" : "重云",
                 "pingying" : "Chóng yún"
             }
         },
         {
+            "id" : 10,
             "Diona":
             {
-                "id" : 10,
                 "chineseTraditional" : "迪奧娜",
                 "chineseSimplified" : "迪奥娜",
                 "pingying" : "Dí ào nà"
             }
         },
         {
+            "id" : 11,
             "Eula":
             {
-                "id" : 11,
                 "chineseTraditional" : "優菈",
                 "chineseSimplified" : "优菈",
                 "pingying" : "Yōu lā"
             }
         },
         {
+            "id" : 12,
             "Ganyu":
             {
-                "id" : 12,
                 "chineseTraditional" : "甘雨",
                 "chineseSimplified" : "甘雨",
                 "pingying" : "Gān yǔ"
             }
         },
         {
+            "id" : 13,
             "Kaeya":
             {
-                "id" : 13,
                 "chineseTraditional" : "凱亞",
                 "chineseSimplified" : "凯亚",
                 "pingying" : "Kǎi yà"
             }
         },
         {
+            "id" : 14,
             "KamisatoAyaka":
             {
-                "id" : 14,
                 "chineseTraditional" : "神里綾華",
                 "chineseSimplified" : "神里绫华",
                 "pingying" : "Shén lǐ Líng huá"
             }
         },
         {
+            "id" : 15,
             "Qiqi":
             {
-                "id" : 15,
                 "chineseTraditional" : "七七",
                 "chineseSimplified" : "七七",
                 "pingying" : "Qī qī"
             }
         },
         {
+            "id" : 16,
             "Rosaria":
             {
-                "id" : 16,
                 "chineseTraditional" : "羅莎莉亞",
                 "chineseSimplified" : "罗莎莉亚",
                 "pingying" : "Luō shā lì yà"
             }
         },
         {
+            "id" : 17,
             "Shenhe":
             {
-                "id" : 17,
                 "chineseTraditional" : "申鶴",
                 "chineseSimplified" : "申鹤",
                 "pingying" : "Shēn hè"
             }
         },
         {
+            "id" : 18,
             "Amber":
             {
-                "id" : 18,
                 "chineseTraditional" : "安柏",
                 "chineseSimplified" : "安柏",
                 "pingying" : "Ān bó"
             }
         },
         {
+            "id" : 19,
             "Bennett":
             {
-                "id" : 19,
                 "chineseTraditional" : "班尼特",
                 "chineseSimplified" : "班尼特",
                 "pingying" : "Bān ní tè"
             }
         },
         {
+            "id" : 20,
             "Diluc":
             {
-                "id" : 20,
                 "chineseTraditional" : "迪盧克",
                 "chineseSimplified" : "迪卢克",
                 "pingying" : "Dí lú kè"
             }
         },
         {
+            "id" : 21,
             "HuTao":
             {
-                "id" : 21,
                 "chineseTraditional" : "胡桃",
                 "chineseSimplified" : "胡桃",
                 "pingying" : "Hú Táo"
             }
         },
         {
+            "id" : 22,
             "Klee":
             {
-                "id" : 22,
                 "chineseTraditional" : "可莉",
                 "chineseSimplified" : "可莉",
                 "pingying" : "Kě lì"
             }
         },
         {
+            "id" : 23,
             "Thoma":
             {
-                "id" : 23,
                 "chineseTraditional" : "托馬",
                 "chineseSimplified" : "托马",
                 "pingying" : "Tuō mǎ"
             }
         },
         {
+            "id" : 24,
             "Xinyan":
             {
-                "id" : 24,
                 "chineseTraditional" : "辛焱",
                 "chineseSimplified" : "辛焱",
                 "pingying" : "Xīn yàn"
             }
         },
         {
+            "id" : 25,
             "Yanfei":
             {
-                "id" : 25,
                 "chineseTraditional" : "煙緋",
                 "chineseSimplified" : "烟绯",
                 "pingying" : "Yān fēi"
             }
         },
         {
+            "id" : 26,
             "Yoimiya":
             {
-                "id" : 26,
                 "chineseTraditional" : "宵宮",
                 "chineseSimplified" : "宵宫",
                 "pingying" : "Xiāo gōng"
             }
         },
         {
+            "id" : 27,
             "Barbara":
             {
-                "id" : 27,
                 "chineseTraditional" : "芭芭拉",
                 "chineseSimplified" : "芭芭拉",
                 "pingying" : "Bā bā lā"
             }
         },
         {
+            "id" : 28,
             "Mona":
             {
-                "id" : 28,
                 "chineseTraditional" : "莫娜",
                 "chineseSimplified" : "莫娜",
                 "pingying" : "Mò nà"
             }
         },
         {
+            "id" : 29,
             "SangonomiyaKokomi":
             {
-                "id" : 29,
                 "chineseTraditional" : "珊瑚宮心海",
                 "chineseSimplified" : "珊瑚宫心海",
                 "pingying" : "Shān hú gōng Xīn hǎi"
             }
         },
         {
+            "id" : 30,
             "Tartaglia":
             {
-                "id" : 30,
                 "chineseTraditional" : "達達利亞",
                 "chineseSimplified" : "达达利亚",
                 "pingying" : "Dá dá lì yǎ"
             }
         },
         {
+            "id" : 31,
             "Xingqiu":
             {
-                "id" : 31,
                 "chineseTraditional" : "行秋",
                 "chineseSimplified" : "行秋",
                 "pingying" : "Xíng qiū"
             }
         },
         {
+            "id" : 32,
             "YaeMiko":
             {
-                "id" : 32,
                 "chineseTraditional" : "八重神子",
                 "chineseSimplified" : "八重神子",
                 "pingying" : "Bā chóng Shén zǐ"
             }
         },
         {
+            "id" : 33,
             "Beidou":
             {
-                "id" : 33,
                 "chineseTraditional" : "北斗",
                 "chineseSimplified" : "北斗",
                 "pingying" : "Běi dǒu"
             }
         },
         {
+            "id" : 34,
             "Fischl":
             {
-                "id" : 34,
                 "chineseTraditional" : "菲謝爾",
                 "chineseSimplified" : "菲谢尔",
                 "pingying" : "Fēi xiè ěr"
             }
         },
         {
+            "id" : 35,
             "Keqing":
             {
-                "id" : 35,
                 "chineseTraditional" : "刻晴",
                 "chineseSimplified" : "刻晴",
                 "pingying" : "Kè qíng"
             }
         },
         {
+            "id" : 36,
             "KujouSara":
             {
-                "id" : 36,
                 "chineseTraditional" : "九條裟羅",
                 "chineseSimplified" : "九条裟罗",
                 "pingying" : "Jiǔ tiáo Shā luó"
             }
         },
         {
+            "id" : 37,
             "Lisa":
             {
-                "id" : 37,
                 "chineseTraditional" : "麗莎",
                 "chineseSimplified" : "丽莎",
                 "pingying" : "Lì shā"
             }
         },
         {
+            "id" : 38,
             "RaidenShogun":
             {
-                "id" : 38,
                 "chineseTraditional" : "雷電將軍",
                 "chineseSimplified" : "雷电将军",
                 "pingying" : "Léi diàn Jiāng jūn"
             }
         },
         {
+            "id" : 39,
             "Razor":
             {
-                "id" : 39,
                 "chineseTraditional" : "雷澤",
                 "chineseSimplified" : "雷泽",
                 "pingying" : "Léi zé"
             }
         },
         {
+            "id" : 40,
             "Jean":
             {
-                "id" : 40,
                 "chineseTraditional" : "琴",
                 "chineseSimplified" : "琴",
                 "pingying" : "Qín"
             }
         },
         {
+            "id" : 41,
             "KaedeharaKazuha":
             {
-                "id" : 41,
                 "chineseTraditional" : "楓原萬葉",
                 "chineseSimplified" : "枫原万叶",
                 "pingying" : "Fēng yuán Wàn yè"
             }
         },
         {
+            "id" : 42,
             "Sayu":
             {
-                "id" : 42,
                 "chineseTraditional" : "早柚",
                 "chineseSimplified" : "早柚",
                 "pingying" : "Zǎo yòu"
             }
         },
         {
+            "id" : 43,
             "Sucrose":
             {
-                "id" : 43,
                 "chineseTraditional" : "砂糖",
                 "chineseSimplified" : "砂糖",
                 "pingying" : "Shā táng"
             }
         },
         {
+            "id" : 44,
             "Venti":
             {
-                "id" : 44,
                 "chineseTraditional" : "溫迪",
                 "chineseSimplified" : "温迪",
                 "pingying" : "Wēn dí"
             }
         },
         {
+            "id" : 45,
             "Xiao":
             {
-                "id" : 45,
                 "chineseTraditional" : "魈",
                 "chineseSimplified" : "魈",
                 "pingying" : "Xiāo"
             }
         },
         {
+            "id" : 46,
             "Xiangling":
             {
-                "id" : 46,
                 "chineseTraditional" : "香菱",
                 "chineseSimplified" : "香菱",
                 "pingying" : "Xiāng líng"
             }
         },
         {
+            "id" : 47,
             "KamisatoAyato":
             {
-                "id" : 47,
                 "chineseTraditional" : "神里綾人",
                 "chineseSimplified" : "神里绫人",
                 "pingying" : "Shén lǐ líng rén"
             }
         },
         {
+            "id" : 48,
             "Yelan":
             {
-                "id" : 48,
                 "chineseTraditional" : "夜蘭",
                 "chineseSimplified" : "夜兰",
                 "pingying" : "Yè lán"
             }
         },
         {
+            "id" : 49,
             "KukiShinobu":
             {
-                "id" : 49,
                 "chineseTraditional" : "久岐忍",
                 "chineseSimplified" : "久岐忍",
                 "pingying" : "Jiǔ qí rěn"
