@@ -441,6 +441,34 @@
                 "chineseSimplified" : "久岐忍",
                 "pingying" : "Jiǔ qí rěn"
             }
+        },
+        {
+            "id" : 50,
+            "Paimon":
+            {
+                "chineseTraditional" : "派蒙",
+                "chineseSimplified" : "派蒙",
+                "pingying" : "Pài méng"
+            }
+        },
+        {
+            "id" : 51,
+            "Traveler":
+            {
+                "chineseTraditional" : "旅行者",
+                "chineseSimplified" : "旅行者",
+                "pingying" : "Lǚ xíng zhě"
+            }
+        }
+    ],
+    "cities":[
+        {
+            "id" : 1,
+            "Mondstadt":{
+                "chineseTraditional" : "蒙德",
+                "chineseSimplified" : "蒙德",
+                "pingying" : "Méng dé"
+            }
         }
     ]
 }
