@@ -470,5 +470,33 @@
                 "pingying" : "Méng dé"
             }
         }
+    ],
+    "elements":[
+        {
+            "id" : 1,
+            "Dendro":{
+                "chineseTraditional" : "草",
+                "chineseSimplified" : "草",
+                "pingying" : "Cǎo"
+            }
+        },
+        {
+            "id" : 2,
+            "Geo":{
+                "chineseTraditional" : "岩",
+                "chineseSimplified" : "岩",
+                "pingying" : "Yán"
+            }
+        }
+    ],
+    "elemental_reaction" : [
+        {
+            "id" : 1,
+            "Burning":{
+                "chineseTraditional" : "燃燒",
+                "chineseSimplified" : "燃烧",
+                "pingying" : "Rán shāo"
+            }
+        }
     ]
 }
