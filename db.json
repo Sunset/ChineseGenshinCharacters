@@ -487,6 +487,14 @@
                 "chineseSimplified" : "岩",
                 "pingying" : "Yán"
             }
+        },
+        {
+            "id" : 3,
+            "Fire":{
+                "chineseTraditional" : "火",
+                "chineseSimplified" : "火",
+                "pingying" : "Huǒ"
+            }
         }
     ],
     "elemental_reaction" : [
