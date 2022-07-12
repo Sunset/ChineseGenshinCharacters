@@ -497,6 +497,14 @@
                 "chineseSimplified" : "燃烧",
                 "pingying" : "Rán shāo"
             }
+        },
+        {
+            "id" : 2,
+            "Frozen":{
+                "chineseTraditional" : "凍結",
+                "chineseSimplified" : "冻结",
+                "pingying" : "Dòng jié"
+            }
         }
     ]
 }
