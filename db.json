@@ -495,6 +495,38 @@
                 "chineseSimplified" : "火",
                 "pingying" : "Huǒ"
             }
+        },
+        {
+            "id" : 4,
+            "Anemo":{
+                "chineseTraditional" : "風",
+                "chineseSimplified" : "风",
+                "pingying" : "Fēng"
+            }
+        },
+        {
+            "id" : 5,
+            "Anemo":{
+                "chineseTraditional" : "冰",
+                "chineseSimplified" : "冰",
+                "pingying" : "Bīng"
+            }
+        },
+        {
+            "id" : 6,
+            "Electro":{
+                "chineseTraditional" : "雷",
+                "chineseSimplified" : "雷",
+                "pingying" : "Léi"
+            }
+        },
+        {
+            "id" : 7,
+            "Electro":{
+                "chineseTraditional" : "水",
+                "chineseSimplified" : "水",
+                "pingying" : "Shuǐ"
+            }
         }
     ],
     "elemental_reaction" : [
