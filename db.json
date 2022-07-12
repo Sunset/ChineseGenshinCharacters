@@ -505,6 +505,78 @@
                 "chineseSimplified" : "冻结",
                 "pingying" : "Dòng jié"
             }
+        },
+        {
+            "id" : 3,
+            "Vaporize":{
+                "chineseTraditional" : "蒸發",
+                "chineseSimplified" : "蒸发",
+                "pingying" : "Zhēng fā"
+            }
+        },
+        {
+            "id" : 4,
+            "Overloaded":{
+                "chineseTraditional" : "超载",
+                "chineseSimplified" : "超载",
+                "pingying" : "Chāo zài"
+            }
+        },
+        {
+            "id" : 5,
+            "Melt":{
+                "chineseTraditional" : "融化",
+                "chineseSimplified" : "融化",
+                "pingying" : "Róng huà"
+            }
+        },
+        {
+            "id" : 6,
+            "ElectroCharged":{
+                "chineseTraditional" : "感電",
+                "chineseSimplified" : "感电",
+                "pingying" : "Gǎn Diàn"
+            }
+        },
+        {
+            "id" : 7,
+            "Bloom":{
+                "chineseTraditional" : "綻放",
+                "chineseSimplified" : "綻放",
+                "pingying" : "Zhàn fàng"
+            }
+        },
+        {
+            "id" : 8,
+            "Superconduct":{
+                "chineseTraditional" : "超導",
+                "chineseSimplified" : "超导",
+                "pingying" : "Chāo dǎo"
+            }
+        },
+        {
+            "id" : 9,
+            "Catalyze":{
+                "chineseTraditional" : "激化",
+                "chineseSimplified" : "激化",
+                "pingying" : "Jī huà"
+            }
+        },
+        {
+            "id" : 10,
+            "Swirl":{
+                "chineseTraditional" : "擴散",
+                "chineseSimplified" : "扩散",
+                "pingying" : "Kuò sàn"
+            }
+        },
+        {
+            "id" : 11,
+            "Crystallize":{
+                "chineseTraditional" : "結晶",
+                "chineseSimplified" : "结晶",
+                "pingying" : "Jié jīng"
+            }
         }
     ]
 }
