@@ -470,13 +470,77 @@
             }
         }
     ],
-    "cities":[
+    "regions":[
         {
             "id" : 1,
             "Mondstadt":{
                 "chineseTraditional" : "蒙德",
                 "chineseSimplified" : "蒙德",
                 "pingying" : "Méng dé"
+            }
+        },
+        {
+            "id" : 2,
+            "Liyue":{
+                "chineseTraditional" : "璃月",
+                "chineseSimplified" : "璃月",
+                "pingying" : "Lí yuè"
+            }
+        },
+        {
+            "id" : 3,
+            "Inazuma":{
+                "chineseTraditional" : "稻妻",
+                "chineseSimplified" : "稻妻",
+                "pingying" : "Dào qī"
+            }
+        },
+        {
+            "id" : 4,
+            "Sumeru":{
+                "chineseTraditional" : "須彌",
+                "chineseSimplified" : "须弥",
+                "pingying" : "Xū mí"
+            }
+        },
+        {
+            "id" : 5,
+            "Fontaine":{
+                "chineseTraditional" : "楓丹",
+                "chineseSimplified" : "枫丹",
+                "pingying" : "Fēng dān"
+            }
+        },
+        {
+            "id" : 6,
+            "Natlan":{
+                "chineseTraditional" : "納塔",
+                "chineseSimplified" : "纳塔",
+                "pingying" : "Nà tǎ"
+            }
+        },
+        {
+            "id" : 7,
+            "Snezhnaya":{
+                "chineseTraditional" : "至冬國",
+                "chineseSimplified" : "至冬国",
+                "pingying" : "Zhì dōng guó"
+            }
+        },
+        {
+            "id" : 8,
+            "Khaenri'ah":{
+                "chineseTraditional" : "坎瑞亞",
+                "chineseSimplified" : "坎瑞亚",
+                "pingying" : "Kǎn ruì yà"
+            }
+        },
+        {
+            "id" : 9,
+            "Teyvat":{
+                "chineseTraditional" : "提瓦特",
+                "chineseSimplified" : "提瓦特",
+                "pingying" : "Tí wǎ tè"
             }
         }
     ],
@@ -496,6 +560,46 @@
                 "chineseSimplified" : "岩",
                 "pingying" : "Yán"
             }
+        },
+        {
+            "id" : 3,
+            "Fire":{
+                "chineseTraditional" : "火",
+                "chineseSimplified" : "火",
+                "pingying" : "Huǒ"
+            }
+        },
+        {
+            "id" : 4,
+            "Anemo":{
+                "chineseTraditional" : "風",
+                "chineseSimplified" : "风",
+                "pingying" : "Fēng"
+            }
+        },
+        {
+            "id" : 5,
+            "Anemo":{
+                "chineseTraditional" : "冰",
+                "chineseSimplified" : "冰",
+                "pingying" : "Bīng"
+            }
+        },
+        {
+            "id" : 6,
+            "Electro":{
+                "chineseTraditional" : "雷",
+                "chineseSimplified" : "雷",
+                "pingying" : "Léi"
+            }
+        },
+        {
+            "id" : 7,
+            "Electro":{
+                "chineseTraditional" : "水",
+                "chineseSimplified" : "水",
+                "pingying" : "Shuǐ"
+            }
         }
     ],
     "elemental_reaction" : [
@@ -505,6 +609,86 @@
                 "chineseTraditional" : "燃燒",
                 "chineseSimplified" : "燃烧",
                 "pingying" : "Rán shāo"
+            }
+        },
+        {
+            "id" : 2,
+            "Frozen":{
+                "chineseTraditional" : "凍結",
+                "chineseSimplified" : "冻结",
+                "pingying" : "Dòng jié"
+            }
+        },
+        {
+            "id" : 3,
+            "Vaporize":{
+                "chineseTraditional" : "蒸發",
+                "chineseSimplified" : "蒸发",
+                "pingying" : "Zhēng fā"
+            }
+        },
+        {
+            "id" : 4,
+            "Overloaded":{
+                "chineseTraditional" : "超载",
+                "chineseSimplified" : "超载",
+                "pingying" : "Chāo zài"
+            }
+        },
+        {
+            "id" : 5,
+            "Melt":{
+                "chineseTraditional" : "融化",
+                "chineseSimplified" : "融化",
+                "pingying" : "Róng huà"
+            }
+        },
+        {
+            "id" : 6,
+            "ElectroCharged":{
+                "chineseTraditional" : "感電",
+                "chineseSimplified" : "感电",
+                "pingying" : "Gǎn Diàn"
+            }
+        },
+        {
+            "id" : 7,
+            "Bloom":{
+                "chineseTraditional" : "綻放",
+                "chineseSimplified" : "綻放",
+                "pingying" : "Zhàn fàng"
+            }
+        },
+        {
+            "id" : 8,
+            "Superconduct":{
+                "chineseTraditional" : "超導",
+                "chineseSimplified" : "超导",
+                "pingying" : "Chāo dǎo"
+            }
+        },
+        {
+            "id" : 9,
+            "Catalyze":{
+                "chineseTraditional" : "激化",
+                "chineseSimplified" : "激化",
+                "pingying" : "Jī huà"
+            }
+        },
+        {
+            "id" : 10,
+            "Swirl":{
+                "chineseTraditional" : "擴散",
+                "chineseSimplified" : "扩散",
+                "pingying" : "Kuò sàn"
+            }
+        },
+        {
+            "id" : 11,
+            "Crystallize":{
+                "chineseTraditional" : "結晶",
+                "chineseSimplified" : "结晶",
+                "pingying" : "Jié jīng"
             }
         }
     ]
