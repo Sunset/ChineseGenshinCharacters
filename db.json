@@ -459,6 +459,15 @@
                 "chineseSimplified" : "旅行者",
                 "pingying" : "Lǚ xíng zhě"
             }
+        },
+        {
+            "id" : 52,
+            "ShikanoinHeizou":
+            {
+                "chineseTraditional" : "鹿野院平藏",
+                "chineseSimplified" : "鹿野院平藏",
+                "pingying" : "Lù yě yuàn Píng zàng"
+            }
         }
     ],
     "cities":[
